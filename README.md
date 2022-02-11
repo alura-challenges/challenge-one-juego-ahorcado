@@ -13,7 +13,7 @@
 3) Utiliza el tema/topic **challengeonejuegoahorcado**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeonejuegoahorcado**" como se muestra en el siguiente GIF
+Incluye la etiqueta "**challengeonejuegoahorcado**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
