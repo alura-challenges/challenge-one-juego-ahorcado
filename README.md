@@ -1,4 +1,4 @@
-# Alura Challenge | Oracle One | Lógica de Programación Latam
+# Alura Challenge | Oracle One | Lógica de Programación Juego del Ahorcado
 ### ¡Bienvenido al proyecto base del Juego del Ahorcado! Pasos principales:
 
 #### Marca este proyecto con una estrella ⭐
@@ -15,9 +15,7 @@
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
 Incluye la etiqueta "**challengeonejuegoahorcado**" como se muestra en el siguiente GIF
 
-
-![githubPrint](https://alura.com.br/assets/img/challenges/oracle-one/git_oracle_one.mp4)
-
+![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
 ## ¿Cómo hago la entrega final de mi proyecto?
 ---
