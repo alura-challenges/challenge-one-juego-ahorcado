@@ -17,11 +17,11 @@
 2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
 3) Utiliza el tema/topic:
 
- - Grupo 1: **challengeonejuegoahorcado**
  - Grupo 2: **challengeonejuegoahorcado2**
+ - Grupo 3: **challengeonejuegoahorcado3**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeonejuegoahorcado**" o "**challengeonejuegoahorcado2**" dependiendo de el grupo al que pertenezcas.
+Incluye la etiqueta "**challengeonejuegoahorcado2**" o "**challengeonejuegoahorcado3**" dependiendo de el grupo al que pertenezcas.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -31,7 +31,7 @@ Incluye la etiqueta "**challengeonejuegoahorcado**" o "**challengeonejuegoahorca
 4) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
 🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
 
-![formulario-latam](https://user-images.githubusercontent.com/91544872/153603386-7624de4a-8838-4fbc-9466-54222ef3f672.png)
+![formulario-latam](https://user-images.githubusercontent.com/101413385/188572033-161d2f1d-7f14-4b04-a636-05f5ff926400.png)
 
 5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
 6) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
